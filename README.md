@@ -16,6 +16,11 @@
 ## Projeto
 Este foi o meu primeiro projeto, um página web estática, quando participei da 6º turma do curso <a href="https://www.programaria.org/curso-online-euprogramo/" target="_blank">eu progr{amo}</a>, um curso voltado para mulheres aprenderem os princípios de desenvolvimento web.
 
+<br />
+<p align="center">
+    <img src="preview.png" width="400px" />
+</p>
+
 ## Como executa-lo?
 Você pode vê-lo <a href="https://siteada.palomasouza1.repl.co" target="_blank">aqui</a>
 
