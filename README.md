@@ -9,9 +9,9 @@
 <br />
 
 ## Tecnologias utilizadas
-🚀- HTML
-🚀- CSS
-🚀- JavaScript
+  - ![HTML5](https://img.shields.io/badge/-HTML5-red)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+  - ![Javascript](https://img.shields.io/badge/-Javascript-orange) 
 
 ## Projeto
 Este foi o meu primeiro projeto, um página web estática, quando participei da 6º turma do curso <a href="https://www.programaria.org/curso-online-euprogramo/" target="_blank">eu progr{amo}</a>, um curso voltado para mulheres aprenderem os princípios de desenvolvimento web.
