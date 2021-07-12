@@ -14,10 +14,10 @@
 - JavaScript
 
 ## Projeto
-Este foi o meu primeiro projeto, participei da 6º turma do curso [eu progr{amo}] (https://www.programaria.org/ curso-online-euprogramo /), um curso voltado ´para mulheres aprenderem os princípios de desenvolvimento web[progra{m}aria] (https://www.programaria.org/).
+Este foi o meu primeiro projeto, participei da 6º turma do curso [eu progr{amo}] <a href="https://www.programaria.org/curso-online-euprogramo/" target="_blank">eu progr{amo}</a>., um curso voltado ´para mulheres aprenderem os princípios de desenvolvimento web[progra{m}aria].
 
 ## Como executa-lo?
-Você pode vê-lo [aqui] (https://siteada.palomasouza1.repl.co/) 
+Você pode vê-lo <a href="https://siteada.palomasouza1.repl.co" target="_blank">aqui</a>
 
 ## Status
 Finalizado ✅
