@@ -22,7 +22,7 @@ Este foi o meu primeiro projeto, um página web estática, quando participei da 
 </p>
 
 ## Como executa-lo?
-Você pode vê-lo <a href=https://ada-lovelace.vercel.app/" target="_blank">aqui</a>
+Você pode vê-lo <a href="https://ada-lovelace.vercel.app/" target="_blank">aqui</a>
 
 ## Status
 Finalizado ✅
